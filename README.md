@@ -14,7 +14,7 @@ LearnTrack is a Core Java console application for managing students, courses, an
   - `repository`: In-memory storage.
   - `exception`: Custom exceptions.
   - `util`: Helper classes.
-- `docs`: Documentation and design notes.
+- `docs`: Detailed documentation and design notes.
 
 ## Class Diagram
 ```mermaid
